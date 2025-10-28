@@ -1,0 +1,14 @@
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\bin\Debug\net9.0\Interview.ConsoleRunner.exe
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\bin\Debug\net9.0\Interview.ConsoleRunner.deps.json
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\bin\Debug\net9.0\Interview.ConsoleRunner.runtimeconfig.json
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\bin\Debug\net9.0\Interview.ConsoleRunner.dll
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\bin\Debug\net9.0\Interview.ConsoleRunner.pdb
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.AssemblyInfo.cs
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.dll
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\refint\Interview.ConsoleRunner.dll
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.pdb
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\Interview.ConsoleRunner.genruntimeconfig.cache
+C:\Users\c.thompson-hill\RiderProjects\Interview\Interview.ConsoleRunner\obj\Debug\net9.0\ref\Interview.ConsoleRunner.dll
