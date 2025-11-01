@@ -5,8 +5,10 @@ public class UnitTest1
     [Theory]
     [InlineData(3, "Fizz")]
     [InlineData(5, "Buzz")]
-    [InlineData(15, "FizzBuzz")]
-    [InlineData(7, "7")]
+    [InlineData(15, "BuzzFizz")]
+    [InlineData(33, "FizzJazz")]
+    [InlineData(7, "Bazz")]
+    [InlineData(11, "Jazz")]
 
     public void FizzBuzz_ReturnsExpectedResult(int input, string expected)
     {
