@@ -9,4 +9,6 @@ For each number:
 * Print "FizzBuzz" if the number is divisible by both 3 and 5.
 * Otherwise, print the number itself.
 
+Ensure the responses are printed to  the console.
+
 The Initial Counting Loop, and Unit tests have been written, you just need to implement the FizzBuzz logic inside the loop.
