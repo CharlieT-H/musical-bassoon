@@ -15,5 +15,13 @@ Before applying rules:
 
 For each number in the range:
 * Apply all rules where number % Divider == 0, in priority order.
+  * If two rules have the same priority order by the message alphabetically.
 * Concatenate all matching messages.
 * If no rules match, print the number.
+
+
+Use the below to add the priorities to the existing rules:
+* Fizz (Divider: 3) - Priority: 2
+* Buzz (Divider: 5) - Priority: 1
+* Bazz (Divider: 7) - Priority: 3
+* Jazz (Divider: 11) - Priority: 2
