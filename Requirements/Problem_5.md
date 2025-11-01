@@ -2,5 +2,5 @@
 
 ## 📋 Requirements
 Implement an interface for loading Rules from different sources (e.g., JSON file, database, hardcoded).  
-Define a class that implement this interface to load the rules using a Hardcoded provider.  
+Create an implemtation of this interface to load the rules using a Hardcoded provider (Written in code).  
 Implement the logic to use this provider to get the rules for FizzBuzz processing.  
