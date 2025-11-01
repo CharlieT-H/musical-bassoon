@@ -15,7 +15,7 @@ Before applying rules:
 
 For each number in the range:
 * Apply all rules where number % Divider == 0, in priority order.
-  * If two rules have the same priority order by the message alphabetically.
+  * If two rules have the same priority, order the rules by the message alphabetically.
 * Concatenate all matching messages.
 * If no rules match, print the number.
 
