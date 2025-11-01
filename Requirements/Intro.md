@@ -13,7 +13,7 @@ We have already scaffolfed the basic setup for you. You will need to implement t
 This is already set up with a basic loop in the program.cs file that calls the `GetFizzBuzzValue` method for numbers 1 to 100.
 
 ## Ruunning the Application
-To run the console application, use `dotnet run --project FizzBuzzTest.Console` from the solution directory.
+To run the console application, use `dotnet run --project Interview.ConsoleRunner` from the solution directory.
 This will execute the FizzBuzz logic and print the results to the console.
 
 ## Running the Unit Tests
